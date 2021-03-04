@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ecom/static/css/main.7b1dbde0.chunk.css",
+    "main.js": "/react-ecom/static/js/main.48a35a60.chunk.js",
+    "main.js.map": "/react-ecom/static/js/main.48a35a60.chunk.js.map",
+    "runtime-main.js": "/react-ecom/static/js/runtime-main.a5518043.js",
+    "runtime-main.js.map": "/react-ecom/static/js/runtime-main.a5518043.js.map",
+    "static/js/2.c506e044.chunk.js": "/react-ecom/static/js/2.c506e044.chunk.js",
+    "static/js/2.c506e044.chunk.js.map": "/react-ecom/static/js/2.c506e044.chunk.js.map",
+    "index.html": "/react-ecom/index.html",
+    "precache-manifest.a7b780f00dc738055ecc477958af3ffc.js": "/react-ecom/precache-manifest.a7b780f00dc738055ecc477958af3ffc.js",
+    "service-worker.js": "/react-ecom/service-worker.js",
+    "static/css/main.7b1dbde0.chunk.css.map": "/react-ecom/static/css/main.7b1dbde0.chunk.css.map",
+    "static/js/2.c506e044.chunk.js.LICENSE.txt": "/react-ecom/static/js/2.c506e044.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5518043.js",
+    "static/js/2.c506e044.chunk.js",
+    "static/css/main.7b1dbde0.chunk.css",
+    "static/js/main.48a35a60.chunk.js"
+  ]
+}
